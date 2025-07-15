@@ -1,7 +1,7 @@
 # OCR - Reconocimiento Óptico de Caracteres
 
 
-Aplicación de Flutter que permite a los usuarios capturar o seleccionar una imagen, extraer el texto contenido en ella (OCR) y reproducirlo en voz (TTS).
+Aplicación de Flutter que permite a los usuarios capturar, seleccionar una imagen o grabar, extraer el texto contenido (OCR) y reproducirlo en voz (TTS).
 
 
 - Reconocimiento de texto en tiempo real utilizando `google_mlkit_text_recognition`.
